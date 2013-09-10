@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/NKCSolution">
+        <file alias="MainIcon">image/icon.png</file>
+        <file alias="ExitIcon">image/exit.png</file>
+        <file alias="OptionsIcon">image/options.png</file>
+        <file alias="nkcsolution_zh">nkcsolution_zh.qm</file>
+        <file alias="StatusDisable">image/head04.png</file>
+        <file alias="Start">image/start.png</file>
+        <file alias="Stop">image/stop.png</file>
+        <file alias="StartTouch">image/start_touch.png</file>
+        <file alias="StopTouch">image/stop_touch.png</file>
+        <file alias="StartPush">image/start_push.png</file>
+        <file alias="StopPush">image/stop_push.png</file>
+        <file alias="Background">image/background.png</file>
+        <file alias="NTR">fonts/newtimeroman.ttf</file>
+        <file alias="Sun">fonts/sun.TTc</file>
+        <file alias="TerribleHeadTurnLeft">image/terrible1.png</file>
+        <file alias="TerribleStatusNormal">image/terrible2.png</file>
+        <file alias="TerribleHeadTurnRight">image/terrible3.png</file>
+        <file alias="TerribleHeadNod">image/terrible4.png</file>
+        <file alias="GoodHeadTurnLeft">image/good1.png</file>
+        <file alias="GoodStatusNormal">image/good2.png</file>
+        <file alias="GoodHeadTurnRight">image/good3.png</file>
+        <file alias="GoodHeadNod">image/good4.png</file>
+        <file alias="WrongPositionAlert">sound/01.wav</file>
+        <file>sound/02.wav</file>
+        <file>sound/03.wav</file>
+        <file>sound/04.wav</file>
+        <file>sound/05.wav</file>
+        <file>sound/06.wav</file>
+        <file>sound/07.wav</file>
+        <file alias="DefaultAlertVoice">sound/default.wav</file>
+    </qresource>
+</RCC>
